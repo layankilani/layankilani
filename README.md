@@ -1,4 +1,3 @@
-👋 Hi, I'm @layankilani. I'm looking for someone who can answer me if Google Maps could accept if a third party wanted to add a feature as an extension to the Google Maps app.
 
 
 <!---
